@@ -1,0 +1,18 @@
+/* === Sapphire Sessions Tailwind v4 setup === */
+@import "tailwindcss";
+
+@theme {
+  --color-indigoDeep: #1C2541;
+  --color-brass: #E3B23C;
+  --color-cream: #F9F6F0;
+  --color-charcoal: #1A1A1A;
+}
+
+/* Optional: base typography / resets */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+}
