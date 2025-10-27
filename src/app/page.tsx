@@ -36,7 +36,7 @@ export default function Home() {
           </span>
         </h1>
         <p className="mt-6 text-slate-600 max-w-prose">
-          Asheville-based artists bringing high-energy bands to your celebration — with transparent, fair pay for the musicians on stage.
+          Asheville-based artists bringing high-energy bands to your celebration — with transparent, fair pay for the musicians on stage. No corporate middlemen skimming off the top. 
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <a href="#quote" className="rounded-xl px-5 py-3 bg-indigoDeep text-white hover:opacity-90">Get a Quote</a>
