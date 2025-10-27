@@ -39,17 +39,25 @@ export default function Home() {
         We’re a group of Asheville-based, working musicians — not an agency, not a corporation — but a non-profit 
         collective created by artists for artists. Every dollar you spend goes directly to the players you see on 
         stage. No booking middlemen, no hidden cuts, no “management fee” skimming off the top. Just real, fair 
-        pay for the musicians who make your event unforgettable.<br/><br/>You can feel the difference the moment 
-        we hit the first note. The energy in the room is electric because everyone on stage is invested — empowered, 
-        respected, and genuinely loving what they do. This isn’t a group of hired guns phoning it in; these are 
-        artists who thrive when the music connects.<br/><br/>Every member of our collective is a professional 
-        musician who also writes, records, and tours nationally with their own original projects. When you bring 
-        us to your celebration, you’re not just hiring a band — you’re inviting a group of passionate, world-class 
-        performers who pour everything into every song.<br/><br/>We don’t just play your party — we put on a concert. 
-        A full-throttle, soul-shaking, dance-floor-filling experience that transforms your event into something 
-        unforgettable.<br/><br/>And if you want proof — well, the proof’s in the pudding. Check out our live show 
-        video and see the energy for yourself: the smiles, the connection, the musicians feeding off the crowd and 
-        each other. That’s what happens when artists are free to create and fairly rewarded for their craft.<br/><br/>
+        pay for the musicians who make your event unforgettable.
+        <br/><br/>
+        Most people don’t realize it, but traditional booking agencies often take up to 40% of what you think is 
+        going to the band. You get charged $500, and the musicians walk away with $300. Not cool. That’s exactly 
+        what we’re here to change.
+        <br/><br/>
+        You can feel the difference the moment we hit the first note. The energy in the room is electric because 
+        everyone on stage is invested — empowered, respected, and genuinely loving what they do. This isn’t a group 
+        of hired guns phoning it in; these are artists who thrive when the music connects.<br/><br/>Every member of 
+        our collective is a professional musician who also writes, records, and tours nationally with their own 
+        original projects. When you bring us to your celebration, you’re not just hiring a band — you’re inviting a 
+        group of passionate, world-class performers who pour everything into every song.<br/><br/>We don’t just play 
+        your party — we put on a concert. A full-throttle, soul-shaking, dance-floor-filling experience that 
+        transforms your event into something unforgettable.
+        <br/><br/>
+        And if you want proof — well, the proof’s in the pudding. Check out our live show video and see the energy 
+        for yourself: the smiles, the connection, the musicians feeding off the crowd and each other. That’s what 
+        happens when artists are free to create and fairly rewarded for their craft.
+        <br/><br/>
         When you book through us, you’re directly supporting Asheville’s vibrant music scene — and helping keep the 
         art of live music alive, honest, and in the hands of the people who create it.
         </p>
