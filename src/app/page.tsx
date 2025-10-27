@@ -43,7 +43,8 @@ export default function Home() {
         <br/><br/>
         Most people don’t realize it, but traditional booking agencies often take up to 40% of what you think is 
         going to the band. You get charged $500, and the musicians walk away with $300. Not cool. That’s exactly 
-        what we’re here to change.
+        what we’re here to change. There’s a small management fee, mainly just to cover our basic nonprofit 
+        overhead and keep the 501(c)(3) side running smoothly.
         <br/><br/>
         You can feel the difference the moment we hit the first note. The energy in the room is electric because 
         everyone on stage is invested — empowered, respected, and genuinely loving what they do. This isn’t a group 
