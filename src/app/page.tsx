@@ -36,7 +36,17 @@ export default function Home() {
           </span>
         </h1>
         <p className="mt-6 text-slate-600 max-w-prose">
-          Asheville-based artists bringing high-energy bands to your celebration — with transparent, fair pay for the musicians on stage. No corporate middlemen skimming off the top. 
+        We’re a group of hardworking, Asheville-based musicians who came together to create something different — 
+        a live music collective built on fairness, community, and passion. Every show you book through us directly 
+        supports the artists you see on stage. No corporate middlemen, no inflated booking fees, no hidden cuts.<br/><br/>We 
+        believe in music without exploitation. For too long, talented musicians have poured their energy into 
+        performances only to see a fraction of the earnings, while agencies and platforms took the lion’s share. 
+        We decided to flip the script — to build a non-profit collective where every dollar goes straight to the 
+        people creating the music. <br/><br/>From funk and soul to rock, jazz, and high-energy dance bands, we bring 
+        Asheville’s best to your stage — weddings, festivals, private events, and celebrations of every kind. 
+        You get unforgettable live music, and the musicians get fair, transparent pay for their craft.<br/><br/>This is 
+        more than a booking service — it’s a movement to put art back in the hands of the artists. When you hire us, 
+        you’re not just booking a band — you’re empowering a community.  
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <a href="#quote" className="rounded-xl px-5 py-3 bg-indigoDeep text-white hover:opacity-90">Get a Quote</a>
