@@ -36,17 +36,19 @@ export default function Home() {
           </span>
         </h1>
         <p className="mt-6 text-slate-600 max-w-prose">
-        We’re a group of hardworking, Asheville-based musicians who came together to create something different — 
-        a live music collective built on fairness, community, and passion. Every show you book through us directly 
-        supports the artists you see on stage. No corporate middlemen, no inflated booking fees, no hidden cuts.<br/><br/>We 
-        believe in music without exploitation. For too long, talented musicians have poured their energy into 
-        performances only to see a fraction of the earnings, while agencies and platforms took the lion’s share. 
-        We decided to flip the script — to build a non-profit collective where every dollar goes straight to the 
-        people creating the music. <br/><br/>From funk and soul to rock, jazz, and high-energy dance bands, we bring 
-        Asheville’s best to your stage — weddings, festivals, private events, and celebrations of every kind. 
-        You get unforgettable live music, and the musicians get fair, transparent pay for their craft.<br/><br/>This is 
-        more than a booking service — it’s a movement to put art back in the hands of the artists. When you hire us, 
-        you’re not just booking a band — you’re empowering a community.  
+        We’re a group of Asheville-based, working musicians — not an agency, not a corporation — but a non-profit 
+        collective created by artists for artists. Every dollar you spend goes directly to the players you see on 
+        stage. No booking middlemen, no hidden cuts, no “management fee” skimming off the top. Just real, fair 
+        pay for the musicians who make your event unforgettable.<br/><br/>You can feel the difference the moment 
+        we hit the first note. The energy in the room is electric because everyone on stage is invested — empowered, 
+        respected, and genuinely loving what they do. This isn’t a group of hired guns phoning it in; these are 
+        artists who thrive when the music connects.<br/><br/>Every member of our collective is a professional 
+        musician who also writes, records, and tours nationally with their own original projects. When you bring 
+        us to your celebration, you’re not just hiring a band — you’re inviting a group of passionate, world-class 
+        performers who pour everything into every song.<br/><br/>We don’t just play your party — we put on a concert. 
+        A full-throttle, soul-shaking, dance-floor-filling experience that transforms your event into something 
+        unforgettable.<br/><br/>When you book through us, you’re directly supporting Asheville’s vibrant music scene — and helping keep the 
+        art of live music alive, honest, and in the hands of the people who create it.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <a href="#quote" className="rounded-xl px-5 py-3 bg-indigoDeep text-white hover:opacity-90">Get a Quote</a>
