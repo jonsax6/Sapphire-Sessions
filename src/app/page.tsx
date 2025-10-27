@@ -47,7 +47,10 @@ export default function Home() {
         us to your celebration, you’re not just hiring a band — you’re inviting a group of passionate, world-class 
         performers who pour everything into every song.<br/><br/>We don’t just play your party — we put on a concert. 
         A full-throttle, soul-shaking, dance-floor-filling experience that transforms your event into something 
-        unforgettable.<br/><br/>When you book through us, you’re directly supporting Asheville’s vibrant music scene — and helping keep the 
+        unforgettable.<br/><br/>And if you want proof — well, the proof’s in the pudding. Check out our live show 
+        video and see the energy for yourself: the smiles, the connection, the musicians feeding off the crowd and 
+        each other. That’s what happens when artists are free to create and fairly rewarded for their craft.<br/><br/>
+        When you book through us, you’re directly supporting Asheville’s vibrant music scene — and helping keep the 
         art of live music alive, honest, and in the hands of the people who create it.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
