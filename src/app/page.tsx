@@ -36,31 +36,26 @@ export default function Home() {
           </span>
         </h1>
         <p className="mt-6 text-slate-600 max-w-prose">
-        We’re a group of Asheville-based, working musicians — not an agency, not a corporation — but a non-profit 
-        collective created by artists for artists. Every dollar you spend goes directly to the players you see on 
-        stage. No booking middlemen, no hidden cuts, no “management fee” skimming off the top. Just real, fair 
-        pay for the musicians who make your event unforgettable.
+        We’re passionate musicians and seasoned event professionals who know how to make any celebration unforgettable. 
+        As a musician-owned nonprofit collective, we cut out the middlemen—so every dollar you spend goes directly to 
+        the artists performing for you. There are no booking-agent markups or corporate cuts, just world-class talent 
+        at an honest price.
         <br/><br/>
-        Most people don’t realize it, but traditional booking agencies often take up to 40% of what you think is 
-        going to the band. You get charged $500, and the musicians walk away with $300. Not cool. That’s exactly 
-        what we’re here to change. There’s a small management fee, mainly just to cover our basic nonprofit 
-        overhead and keep the 501(c)(3) side running smoothly.
+        Many of our members are national and international touring professionals, including Grammy-winning artists, who 
+        bring the same level of performance and production you’d see on major stages around the world. We don’t just 
+        play background music—we deliver a full concert experience that your guests will remember long after the night 
+        ends.
         <br/><br/>
-        You can feel the difference the moment we hit the first note. The energy in the room is electric because 
-        everyone on stage is invested — empowered, respected, and genuinely loving what they do. This isn’t a group 
-        of hired guns phoning it in; these are artists who thrive when the music connects.<br/><br/>Every member of 
-        our collective is a professional musician who also writes, records, and tours nationally with their own 
-        original projects. When you bring us to your celebration, you’re not just hiring a band — you’re inviting a 
-        group of passionate, world-class performers who pour everything into every song.<br/><br/>We don’t just play 
-        your party — we put on a concert. A full-throttle, soul-shaking, dance-floor-filling experience that 
-        transforms your event into something unforgettable.
+        Our band is fully customizable, from an intimate 3-piece ensemble to a 14-piece powerhouse, tailored to fit your e
+        vent’s vision and vibe. Whether it’s a wedding, festival, corporate event, or private celebration, we bring the 
+        energy, professionalism, and musicianship to make it truly special.
         <br/><br/>
-        And if you want proof — well, the proof’s in the pudding. Check out our live show video and see the energy 
-        for yourself: the smiles, the connection, the musicians feeding off the crowd and each other. That’s what 
-        happens when artists are free to create and fairly rewarded for their craft.
+        Our band is fully customizable, from an intimate 3-piece ensemble to a 14-piece powerhouse, tailored to fit 
+        your event’s vision and vibe. Whether it’s a wedding, festival, corporate event, or private celebration, we 
+        bring the energy, professionalism, and musicianship to make it truly special.
         <br/><br/>
-        When you book through us, you’re directly supporting Asheville’s vibrant music scene — and helping keep the 
-        art of live music alive, honest, and in the hands of the people who create it.
+        We charge only a small management fee to cover our nonprofit’s basic overhead. Everything else goes straight 
+        to the musicians—supporting working artists and helping keep live music thriving in our community.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <a href="#quote" className="rounded-xl px-5 py-3 bg-indigoDeep text-white hover:opacity-90">Get a Quote</a>
