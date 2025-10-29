@@ -46,8 +46,8 @@ export default function Home() {
         play background music—we deliver a full concert experience that your guests will remember long after the night 
         ends.
         <br/><br/>
-        Our band is fully customizable, from an intimate 3-piece ensemble to a 14-piece powerhouse, tailored to fit your e
-        vent’s vision and vibe. Whether it’s a wedding, festival, corporate event, or private celebration, we bring the 
+        Our band is fully customizable, from an intimate 3-piece ensemble to a 14-piece powerhouse, tailored to fit your 
+        event’s vision and vibe. Whether it’s a wedding, festival, corporate event, or private celebration, we bring the 
         energy, professionalism, and musicianship to make it truly special.
         <br/><br/>
         Our band is fully customizable, from an intimate 3-piece ensemble to a 14-piece powerhouse, tailored to fit 
